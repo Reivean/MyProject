@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-03-22T22:58:09.391-05:00
-  initializedAtString: 2020-03-22T22:45:35.921-05:00
+  lastUpdatedAtString: 2020-03-24T17:39:11.434-05:00
+  initializedAtString: 2020-03-24T17:39:11.434-05:00
   currentGitRemote:
     name: origin
-    url: ://github.com/Reivean/Unity2D-Roguelike-Project.gitt.git
+    url: https://github.com/Reivean/MyProject.git
     login: 
     user: 
     host: 
@@ -30,9 +30,9 @@ MonoBehaviour:
     name: master
     remote:
       name: origin
-      url: ://github.com/Reivean/Unity2D-Roguelike-Project.gitt.git
+      url: https://github.com/Reivean/MyProject.git
     trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: ://github.com/Reivean/Unity2D-Roguelike-Project.gitt.git
+    url: https://github.com/Reivean/MyProject.git
   currentHead: 
