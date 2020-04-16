@@ -13,9 +13,201 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-22T23:06:08.981-05:00
-  initializedAtString: 2020-03-22T23:05:11.341-05:00
+  lastUpdatedAtString: 2020-04-16T04:13:54.295-05:00
+  initializedAtString: 2020-04-16T04:13:54.295-05:00
   log:
+  - commitID: ebcec40488ff98533d8841e104314a4e8bce972b
+    mergeA: 
+    mergeB: 
+    authorName: hfu2
+    authorEmail: hfu2@luc.edu
+    commitEmail: hfu2@luc.edu
+    commitName: hfu2
+    summary: Minus changes
+    description: 
+    timeString: 2020-03-24T17:39:47.000-05:00
+    commitTimeString: 2020-03-24T17:39:47.000-05:00
+    changes:
+    - path: .vs/MyProject/xs/UserPrefs.xml
+      fullPath: /Users/alexus/MyProject/.vs/MyProject/xs/UserPrefs.xml
+      projectPath: .vs/MyProject/xs/UserPrefs.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs/MyProject/xs/project-cache/Assembly-CSharp-Debug.json
+      fullPath: /Users/alexus/MyProject/.vs/MyProject/xs/project-cache/Assembly-CSharp-Debug.json
+      projectPath: .vs/MyProject/xs/project-cache/Assembly-CSharp-Debug.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs/MyProject/xs/project-cache/Assembly-CSharp-Editor-Debug.json
+      fullPath: /Users/alexus/MyProject/.vs/MyProject/xs/project-cache/Assembly-CSharp-Editor-Debug.json
+      projectPath: .vs/MyProject/xs/project-cache/Assembly-CSharp-Editor-Debug.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs/MyProject/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+      fullPath: /Users/alexus/MyProject/.vs/MyProject/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+      projectPath: .vs/MyProject/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Sprites/8bitMonsterSpriteSheet.png
+      fullPath: /Users/alexus/MyProject/Assets/Sprites/8bitMonsterSpriteSheet.png
+      projectPath: Assets/Sprites/8bitMonsterSpriteSheet.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Sprites/8bitMonsterSpriteSheet.png.meta
+      fullPath: /Users/alexus/MyProject/Assets/Sprites/8bitMonsterSpriteSheet.png.meta
+      projectPath: Assets/Sprites/8bitMonsterSpriteSheet.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Sprites/SpriteSheet.png
+      fullPath: /Users/alexus/MyProject/Assets/Sprites/SpriteSheet.png
+      projectPath: Assets/Sprites/SpriteSheet.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Sprites/SpriteSheet.png.meta
+      fullPath: /Users/alexus/MyProject/Assets/Sprites/SpriteSheet.png.meta
+      projectPath: Assets/Sprites/SpriteSheet.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/ArtifactDB
+      fullPath: /Users/alexus/MyProject/Library/ArtifactDB
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/Artifacts/76/7663aac59bd7fa4f7f38473fb9459d9d
+      fullPath: /Users/alexus/MyProject/Library/Artifacts/76/7663aac59bd7fa4f7f38473fb9459d9d
+      projectPath: Library/Artifacts/76/7663aac59bd7fa4f7f38473fb9459d9d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/Artifacts/b7/b74f3423ca2c4b4671e1cd6b711c08b3
+      fullPath: /Users/alexus/MyProject/Library/Artifacts/b7/b74f3423ca2c4b4671e1cd6b711c08b3
+      projectPath: Library/Artifacts/b7/b74f3423ca2c4b4671e1cd6b711c08b3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/Artifacts/c9/c9254cf31d18da976f458fda6210498b
+      fullPath: /Users/alexus/MyProject/Library/Artifacts/c9/c9254cf31d18da976f458fda6210498b
+      projectPath: Library/Artifacts/c9/c9254cf31d18da976f458fda6210498b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/Artifacts/de/de4a22a9ac78d5682fd9b0f7693a4b03
+      fullPath: /Users/alexus/MyProject/Library/Artifacts/de/de4a22a9ac78d5682fd9b0f7693a4b03
+      projectPath: Library/Artifacts/de/de4a22a9ac78d5682fd9b0f7693a4b03
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/CurrentLayout-default.dwlt
+      fullPath: /Users/alexus/MyProject/Library/CurrentLayout-default.dwlt
+      projectPath: Library/CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/CurrentMaximizeLayout.dwlt
+      fullPath: /Users/alexus/MyProject/Library/CurrentMaximizeLayout.dwlt
+      projectPath: Library/CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/EditorInstance.json
+      fullPath: /Users/alexus/MyProject/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/SourceAssetDB
+      fullPath: /Users/alexus/MyProject/Library/SourceAssetDB
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/Hierarchy/e02075-mainStage.json
+      fullPath: /Users/alexus/MyProject/Library/StateCache/Hierarchy/e02075-mainStage.json
+      projectPath: Library/StateCache/Hierarchy/e02075-mainStage.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/expandedItems
+      fullPath: /Users/alexus/MyProject/Library/expandedItems
+      projectPath: Library/expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/alexus/MyProject/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/alexus/MyProject/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/alexus/MyProject/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/alexus/MyProject/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/alexus/MyProject/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gituser.yaml
+      fullPath: /Users/alexus/MyProject/Library/gfu/cache/gituser.yaml
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/alexus/MyProject/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/UnityLockfile
+      fullPath: /Users/alexus/MyProject/Temp/UnityLockfile
+      projectPath: Temp/UnityLockfile
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: /Users/alexus/MyProject/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+      fullPath: /Users/alexus/MyProject/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+      projectPath: obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: /Users/alexus/MyProject/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: fc5d27e6e60981283eaeb2d2c706336547858f5e
     mergeA: 
     mergeB: 

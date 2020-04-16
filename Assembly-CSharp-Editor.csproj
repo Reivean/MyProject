@@ -92,12 +92,6 @@
     <Reference Include="Unity.Rider.Editor">
       <HintPath>/Users/alexus/MyProject/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>/Users/alexus/MyProject/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>/Users/alexus/MyProject/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>/Users/alexus/MyProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
@@ -293,20 +287,20 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
-    <Reference Include="GitHub.Logging">
-      <HintPath>/Users/alexus/MyProject/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
-    </Reference>
-    <Reference Include="sfw.net">
-      <HintPath>/Users/alexus/MyProject/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+    <Reference Include="GitHub.Api.45">
+      <HintPath>/Users/alexus/MyProject/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.Unity.45">
       <HintPath>/Users/alexus/MyProject/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
     </Reference>
+    <Reference Include="sfw.net">
+      <HintPath>/Users/alexus/MyProject/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+    </Reference>
     <Reference Include="GitHub.UnityShim">
       <HintPath>/Users/alexus/MyProject/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
     </Reference>
-    <Reference Include="GitHub.Api.45">
-      <HintPath>/Users/alexus/MyProject/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
+    <Reference Include="GitHub.Logging">
+      <HintPath>/Users/alexus/MyProject/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>/Users/alexus/MyProject/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
