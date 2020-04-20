@@ -13,9 +13,51 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-04-19T21:25:01.103-05:00
+  lastUpdatedAtString: 2020-04-20T03:28:00.991-05:00
   initializedAtString: 2020-04-16T04:13:54.295-05:00
   log:
+  - commitID: f5268658b6adb19e6ab350d4f66adf3b16034136
+    mergeA: 
+    mergeB: 
+    authorName: hfu2
+    authorEmail: hfu2@luc.edu
+    commitEmail: hfu2@luc.edu
+    commitName: hfu2
+    summary: 1
+    description: 
+    timeString: 2020-04-19T21:25:09.000-05:00
+    commitTimeString: 2020-04-19T21:25:09.000-05:00
+    changes:
+    - path: Library/SourceAssetDB
+      fullPath: /Users/alexus/MyProject/Library/SourceAssetDB
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/alexus/MyProject/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/alexus/MyProject/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/alexus/MyProject/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/alexus/MyProject/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: d5eabd72830ab612eae1e0939373195dda496d11
     mergeA: 
     mergeB: 

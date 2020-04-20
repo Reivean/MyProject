@@ -2,6 +2,7 @@
 using System.Collections;
 using UnityEngine.UI;	//Allows us to use UI.
 using UnityEngine.SceneManagement;
+using System;
 
 namespace Completed
 {
@@ -13,9 +14,8 @@ namespace Completed
 		public int pointsPerSoda = 20;				//Number of points to add to player food points when picking up a soda object.
 		public int wallDamage = 1;					//How much damage a player does to a wall when chopping it.
 		public Text foodText;                       //UI Text to display current player food total.
-
 		public Text daysText;
-
+		public Text enemyText;
 		public AudioClip moveSound1;				//1 of 2 Audio clips to play when player moves.
 		public AudioClip moveSound2;				//2 of 2 Audio clips to play when player moves.
 		public AudioClip eatSound1;					//1 of 2 Audio clips to play when player collects a food object.
@@ -27,7 +27,7 @@ namespace Completed
 		private Animator animator;					//Used to store a reference to the Player's animator component.
 		private int food;                           //Used to store player food points total during level.
 		private int days;
-
+		private int enemy;
 	
 #if UNITY_IOS || UNITY_ANDROID || UNITY_WP8 || UNITY_IPHONE
         private Vector2 touchOrigin = -Vector2.one;	//Used to store location of screen touch origin for mobile controls.
@@ -50,6 +50,11 @@ namespace Completed
             days = GameManager.instance.days;
 
             daysText.text = "Days: " + days;
+
+			enemy = (int)Math.Log(days, 2f); ;
+
+			enemyText.text = "Enemies: " + enemy;
+            
 
             //Call the Start function of the MovingObject base class.
             base.Start ();
@@ -200,7 +205,8 @@ namespace Completed
 			//Check if the tag of the trigger collided with is Food.
 			else if(other.tag == "Food")
 			{
-				//Add pointsPerFood to the players current food total.
+
+                //Add pointsPerFood to the players current food total.
 				food += pointsPerFood;
 				
 				//Update foodText to represent current total and notify player that they gained points
@@ -216,6 +222,7 @@ namespace Completed
 			//Check if the tag of the trigger collided with is Soda.
 			else if(other.tag == "Soda")
 			{
+
 				//Add pointsPerSoda to players food points total
 				food += pointsPerSoda;
 				

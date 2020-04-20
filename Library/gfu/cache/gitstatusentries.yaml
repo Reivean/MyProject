@@ -13,12 +13,108 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-04-19T21:25:00.391-05:00
+  lastUpdatedAtString: 2020-04-20T03:38:16.989-05:00
   initializedAtString: 2020-04-16T04:11:10.509-05:00
   entries:
+  - path: .vs/MyProject/xs/UserPrefs.xml
+    fullPath: /Users/alexus/MyProject/.vs/MyProject/xs/UserPrefs.xml
+    projectPath: .vs/MyProject/xs/UserPrefs.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/BoardManager.cs
+    fullPath: /Users/alexus/MyProject/Assets/Scripts/BoardManager.cs
+    projectPath: Assets/Scripts/BoardManager.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/GameManager.cs
+    fullPath: /Users/alexus/MyProject/Assets/Scripts/GameManager.cs
+    projectPath: Assets/Scripts/GameManager.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/Player.cs
+    fullPath: /Users/alexus/MyProject/Assets/Scripts/Player.cs
+    projectPath: Assets/Scripts/Player.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ArtifactDB
+    fullPath: /Users/alexus/MyProject/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Artifacts/23/23bbe3419698d3e823b758d1bd70c34f
+    fullPath: /Users/alexus/MyProject/Library/Artifacts/23/23bbe3419698d3e823b758d1bd70c34f
+    projectPath: Library/Artifacts/23/23bbe3419698d3e823b758d1bd70c34f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/3b/3be13bf31cbd411d2812ba82a9e5074c
+    fullPath: /Users/alexus/MyProject/Library/Artifacts/3b/3be13bf31cbd411d2812ba82a9e5074c
+    projectPath: Library/Artifacts/3b/3be13bf31cbd411d2812ba82a9e5074c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/4c/4c3c340494b9452fb4d16531a4a5022a
+    fullPath: /Users/alexus/MyProject/Library/Artifacts/4c/4c3c340494b9452fb4d16531a4a5022a
+    projectPath: Library/Artifacts/4c/4c3c340494b9452fb4d16531a4a5022a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/61/615993d5a4ecc72b6ce15c449af63312
+    fullPath: /Users/alexus/MyProject/Library/Artifacts/61/615993d5a4ecc72b6ce15c449af63312
+    projectPath: Library/Artifacts/61/615993d5a4ecc72b6ce15c449af63312
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/63/63e2f4d3f7a17fd6e07a1a64f9ce4e78
+    fullPath: /Users/alexus/MyProject/Library/Artifacts/63/63e2f4d3f7a17fd6e07a1a64f9ce4e78
+    projectPath: Library/Artifacts/63/63e2f4d3f7a17fd6e07a1a64f9ce4e78
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a4/a42057fdd313ec2561eadce299a3c294
+    fullPath: /Users/alexus/MyProject/Library/Artifacts/a4/a42057fdd313ec2561eadce299a3c294
+    projectPath: Library/Artifacts/a4/a42057fdd313ec2561eadce299a3c294
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/bf/bfb27b74471b7ad6b02736544d01faeb
+    fullPath: /Users/alexus/MyProject/Library/Artifacts/bf/bfb27b74471b7ad6b02736544d01faeb
+    projectPath: Library/Artifacts/bf/bfb27b74471b7ad6b02736544d01faeb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/da/dae57beea97ac75d38c87aacb6ed8524
+    fullPath: /Users/alexus/MyProject/Library/Artifacts/da/dae57beea97ac75d38c87aacb6ed8524
+    projectPath: Library/Artifacts/da/dae57beea97ac75d38c87aacb6ed8524
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/alexus/MyProject/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/alexus/MyProject/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/alexus/MyProject/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/alexus/MyProject/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -28,3 +124,123 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/alexus/MyProject/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/alexus/MyProject/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    fullPath: /Users/alexus/MyProject/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    fullPath: /Users/alexus/MyProject/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB
+    fullPath: /Users/alexus/MyProject/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/Hierarchy/3f6f13-mainStage.json
+    fullPath: /Users/alexus/MyProject/Library/StateCache/Hierarchy/3f6f13-mainStage.json
+    projectPath: Library/StateCache/Hierarchy/3f6f13-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/SceneView/afb49d-mainStage.json
+    fullPath: /Users/alexus/MyProject/Library/StateCache/SceneView/afb49d-mainStage.json
+    projectPath: Library/StateCache/SceneView/afb49d-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/alexus/MyProject/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/UnityTempFile-066b5597681364ff98cb54fd4297ef21
+    fullPath: /Users/alexus/MyProject/Temp/UnityTempFile-066b5597681364ff98cb54fd4297ef21
+    projectPath: Temp/UnityTempFile-066b5597681364ff98cb54fd4297ef21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-42bd8b71917934f5eb09259f1b89b714
+    fullPath: /Users/alexus/MyProject/Temp/UnityTempFile-42bd8b71917934f5eb09259f1b89b714
+    projectPath: Temp/UnityTempFile-42bd8b71917934f5eb09259f1b89b714
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-547bef8c08c514c4a8f730906351f0d9
+    fullPath: /Users/alexus/MyProject/Temp/UnityTempFile-547bef8c08c514c4a8f730906351f0d9
+    projectPath: Temp/UnityTempFile-547bef8c08c514c4a8f730906351f0d9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-61b83be4397da457eb0ce89a24223f7b
+    fullPath: /Users/alexus/MyProject/Temp/UnityTempFile-61b83be4397da457eb0ce89a24223f7b
+    projectPath: Temp/UnityTempFile-61b83be4397da457eb0ce89a24223f7b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6d17044a3779a4dcbbda679b6a0e2ad3
+    fullPath: /Users/alexus/MyProject/Temp/UnityTempFile-6d17044a3779a4dcbbda679b6a0e2ad3
+    projectPath: Temp/UnityTempFile-6d17044a3779a4dcbbda679b6a0e2ad3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9185a0770109f4571a3443008ce40f2f
+    fullPath: /Users/alexus/MyProject/Temp/UnityTempFile-9185a0770109f4571a3443008ce40f2f
+    projectPath: Temp/UnityTempFile-9185a0770109f4571a3443008ce40f2f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9c64c24d4f49248cf8231eebf3bd5adf
+    fullPath: /Users/alexus/MyProject/Temp/UnityTempFile-9c64c24d4f49248cf8231eebf3bd5adf
+    projectPath: Temp/UnityTempFile-9c64c24d4f49248cf8231eebf3bd5adf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-a37b278df76cd4725bb479355f405fbc
+    fullPath: /Users/alexus/MyProject/Temp/UnityTempFile-a37b278df76cd4725bb479355f405fbc
+    projectPath: Temp/UnityTempFile-a37b278df76cd4725bb479355f405fbc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-af2ae77ed24d14fd79e0fb7e39a49b53
+    fullPath: /Users/alexus/MyProject/Temp/UnityTempFile-af2ae77ed24d14fd79e0fb7e39a49b53
+    projectPath: Temp/UnityTempFile-af2ae77ed24d14fd79e0fb7e39a49b53
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-bc5d2d77dcd73461c805bd639b0edd0d
+    fullPath: /Users/alexus/MyProject/Temp/UnityTempFile-bc5d2d77dcd73461c805bd639b0edd0d
+    projectPath: Temp/UnityTempFile-bc5d2d77dcd73461c805bd639b0edd0d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d2e043312e9294d978d800dd1b12b4b2
+    fullPath: /Users/alexus/MyProject/Temp/UnityTempFile-d2e043312e9294d978d800dd1b12b4b2
+    projectPath: Temp/UnityTempFile-d2e043312e9294d978d800dd1b12b4b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f41955f168e9c440eb44abf58343e4a3
+    fullPath: /Users/alexus/MyProject/Temp/UnityTempFile-f41955f168e9c440eb44abf58343e4a3
+    projectPath: Temp/UnityTempFile-f41955f168e9c440eb44abf58343e4a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
